@@ -36,7 +36,6 @@ export default function Users() {
               </a>
             ))}
           </div>
-              
           <p>Are you using this project?</p>
           <a
             href={addUserUrl}
