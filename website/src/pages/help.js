@@ -46,7 +46,6 @@ export default function Help() {
           </header>
           <p>This project is maintained by a dedicated group of people.</p>
         </div>
-
         <div className="row">
           {supportLinks.map((supportLink, i) => (
             <div className="col col--4 margin-top--lg" key={i}>
