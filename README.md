@@ -42,7 +42,7 @@ Cheatsheets for experienced React developers getting started with TypeScript
   - ⚠️This is a new cheatsheet, all assistance is welcome.
 - [The HOC Cheatsheet](https://react-typescript-cheatsheet.netlify.app/docs/hoc)) specifically teaches people to write HOCs with examples.
   - Familiarity with [Generics](https://www.typescriptlang.org/docs/handbook/2/generics.html) is necessary.
-  - ⚠️This is the newest cheatsheet, all assistance is welcome.
+  - ⚠️This is the newest cheatsheet, all assistance is welcome!.
 
 ---
 
